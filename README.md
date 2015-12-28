@@ -1,1 +1,2 @@
 # upLoadFiled
+这是一个上传单个文件或者多个文件的工具类，该类是基于AFNetworking的进一步封装。
